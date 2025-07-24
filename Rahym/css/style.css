@@ -1,0 +1,23 @@
+.vh-50 {
+    height: 50vh;
+}
+.vh-75 {
+    height: 75vh;
+}
+
+.top-75{
+    top: 75%;
+}
+
+
+.ps-6 {
+padding-left: 75px;
+}
+
+.mt--5 {
+    margin-top: -50px;
+}
+
+.ms-10 {
+    margin-left: 100px;
+}
